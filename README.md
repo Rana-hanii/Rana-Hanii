@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rana Hani</h1>
 <h3 align="center">Frontend Developer | Angular</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rana-hanii&label=Profile%20views&color=0e75b6&style=flat" alt="rana-hanii" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rana-hanii&label=Profile%20views&color=0e75b6&style=flat" alt="rana-hanii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rana-hanii" alt="rana-hanii" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ranaa-hanii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranaa-hanii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ranaa-hanii" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 <a href="mailto:ranahani797@gmail.com" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
@@ -32,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rana-hanii&show_icons=true&locale=en" alt="rana-hanii" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rana-hanii&" alt="rana-hanii" /></p>
+

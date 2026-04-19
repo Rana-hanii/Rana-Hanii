@@ -2,7 +2,7 @@
 <!-- 🌸 HEADER BANNER -->
 <!-- ============================================= -->
 <a href="https://github.com/Rana-hanii">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF69B4,100:C71585&height=220&section=header&text=Hi%2C%20I'm%20Rana%20Hani%20%F0%9F%8C%B8&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Angular%20Frontend%20Developer%20%E2%9C%A8%20Animations%20%E2%80%A2%20Performance%20%E2%80%A2%20SEO&descSize=18&descAlignY=58" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,50:FF69B4,100:C71585&height=220&section=header&text=Rana%20Hani%20Madkour&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Angular%20Frontend%20Developer%20%E2%9C%A8%20Animations%20%E2%80%A2%20Performance%20%E2%80%A2%20SEO&descSize=18&descAlignY=58" width="100%" alt="header"/>
 </a>
 
 <!-- ============================================= -->

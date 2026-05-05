@@ -149,9 +149,7 @@ I'm **Rana Hani Madkour**, an experienced **Angular Frontend Developer** based i
 
 <div align="center">
 
-  <a href="https://github.com/Rana-hanii">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rana-hanii&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4&text_color=ffffff&include_all_commits=true&count_private=true" alt="stats"/>
-  </a>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rana-hanii&theme=radical" alt="stats"/>
   <a href="https://github.com/Rana-hanii">
     <img height="180" src="https://streak-stats.demolab.com?user=Rana-hanii&theme=radical&hide_border=true&background=0D1117&ring=FF1493&fire=FF69B4&currStreakLabel=FF1493" alt="streak"/>
   </a>
@@ -159,9 +157,8 @@ I'm **Rana Hani Madkour**, an experienced **Angular Frontend Developer** based i
 </div>
 
 <div align="center">
-  <a href="https://github.com/Rana-hanii">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rana-hanii&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=ffffff&langs_count=8" alt="top langs"/>
-  </a>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rana-hanii&theme=radical" alt="top langs"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rana-hanii&theme=radical" alt="top langs by commit"/>
 </div>
 
 <div align="center">
@@ -178,19 +175,19 @@ I'm **Rana Hani Madkour**, an experienced **Angular Frontend Developer** based i
 <div align="center">
 
   <a href="https://github.com/Rana-hanii/Media-a-la-Carte">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rana-hanii&repo=Media-a-la-Carte&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4" alt="Media-a-la-Carte"/>
+    <img src="https://opengraph.githubassets.com/1/Rana-hanii/Media-a-la-Carte" width="400" alt="Media-a-la-Carte"/>
   </a>
   <a href="https://github.com/Rana-hanii/RoseECommerceWorkspace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rana-hanii&repo=RoseECommerceWorkspace&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4" alt="RoseECommerceWorkspace"/>
+    <img src="https://opengraph.githubassets.com/1/Rana-hanii/RoseECommerceWorkspace" width="400" alt="RoseECommerceWorkspace"/>
   </a>
 
   <br/>
 
   <a href="https://github.com/Mo0olTo/FitnessAppWorkspace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mo0olTo&repo=FitnessAppWorkspace&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4" alt="FitnessAppWorkspace"/>
+    <img src="https://opengraph.githubassets.com/1/Mo0olTo/FitnessAppWorkspace" width="400" alt="FitnessAppWorkspace"/>
   </a>
   <a href="https://github.com/DigitalBondMena/Tech-House">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DigitalBondMena&repo=Tech-House&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=FF69B4" alt="Tech-House"/>
+    <img src="https://opengraph.githubassets.com/1/DigitalBondMena/Tech-House" width="400" alt="Tech-House"/>
   </a>
 
 </div>
